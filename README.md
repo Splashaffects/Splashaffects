@@ -1,8 +1,8 @@
  Hi there, I'm Ashley! 👋
-Connet with me
+Connect with me!
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  About Me
-I’m currently working in the field of cybersecurity, but I'm still exploring the different paths within this vast domain. I’m particularly interested in becoming a **Security Analyst**, engaging in **Penetration Testing**, developing **Principles of Security Strategies**, or working as a **Security Consultant**.
+I’m currently working in the field of Client Support Specialist, but I'm looking to explore the different paths within this vast domain of cybersecurity.  I’m particularly interested in becoming a **Security Analyst**, engaging in **Penetration Testing**, developing **Principles of Security Strategies**, or working as a **Security Consultant**.
 Current Learning
 This is helping me build a solid foundation and gain hands-on experience in the areas I'm passionate about.
  Collaboration
