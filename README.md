@@ -1,5 +1,5 @@
 Hi there, I'm Ashley! 👋  
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a [href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>](http://linkedin.com/in/ashley-wright-16071b351)
 
 I’ve always had a passion for helping others and being a problem solver, which has led me to explore the vast domain of cybersecurity. Currently, I work as a Client Support Specialist, but I’m eager to delve deeper into this field. My specific interests include:
 
